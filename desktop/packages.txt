@@ -12,3 +12,4 @@ zathura okular rclone ripgrep fd-find google-drive-ocamlfuse neovim
 pandoc texlive-latex-extra texlive-science python3-pip xclip fonts-dejavu ttf-dejavu fonts-symbola
 
 google-chrome-stable
+ctags
