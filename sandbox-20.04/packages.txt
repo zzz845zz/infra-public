@@ -1,0 +1,12 @@
+git
+vim neovim emacs
+zsh tmux
+build-essential m4 gcc clang opam ocaml python3-venv python3-pip default-jdk nodejs
+autoconf libgmp-dev libsqlite3-dev zlib1g-dev libmpfr-dev
+wget curl libssl-dev sshfs
+ctags cmake
+htop cron
+xclip
+
+texlive-full
+fonts-hack-ttf fonts-powerline fonts-dejavu ttf-dejavu fonts-symbola
