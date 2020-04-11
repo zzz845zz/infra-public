@@ -8,5 +8,5 @@ ctags cmake
 htop cron
 xclip
 
-texlive-full
+# texlive-full
 fonts-hack-ttf fonts-powerline fonts-dejavu ttf-dejavu fonts-symbola
