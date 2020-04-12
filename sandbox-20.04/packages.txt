@@ -9,3 +9,4 @@ htop cron
 xclip
 
 fonts-hack-ttf fonts-powerline fonts-dejavu ttf-dejavu fonts-symbola
+texlive-full
