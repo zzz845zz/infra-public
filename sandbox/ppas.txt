@@ -1,3 +1,0 @@
-ppa:avsm/ppa
-ppa:kelleyk/emacs
-ppa:neovim-ppa/unstable
