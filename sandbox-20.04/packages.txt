@@ -2,7 +2,7 @@ git
 vim neovim emacs
 zsh bash-completion tmux
 sudo build-essential m4 gcc clang opam ocaml python3-venv python3-pip default-jdk nodejs
-autoconf libgmp-dev libsqlite3-dev zlib1g-dev libmpfr-dev
+pkg-config autoconf libgmp-dev libsqlite3-dev zlib1g-dev libmpfr-dev
 inetutils-ping inetutils-telnet inetutils-traceroute wget curl
 libssl-dev sshfs
 ctags cmake
