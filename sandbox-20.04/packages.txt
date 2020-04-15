@@ -1,4 +1,4 @@
-git
+git man-db
 vim neovim emacs
 zsh bash-completion tmux
 sudo build-essential m4 gcc clang opam ocaml python3-venv python3-pip default-jdk nodejs
