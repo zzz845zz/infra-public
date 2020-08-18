@@ -12,8 +12,10 @@ libssl-dev sshfs
 ctags cmake
 htop cron
 xclip
-gcc-10-riscv64-linux-gnu qemu-user-static
-gcc-riscv64-linux-gnu qemu-system-misc gdb-multiarch
+gcc-10-riscv64-linux-gnu gcc-riscv64-linux-gnu gcc-10-aarch64-linux-gnu gcc-aarch64-linux-gnu
+gcc-multilib libx11-dev:i386
+gdb-multiarch
+qemu-user-static qemu-system-arm qemu-system-misc
 
 fonts-hack-ttf fonts-powerline fonts-dejavu ttf-dejavu fonts-symbola
 texlive-full
