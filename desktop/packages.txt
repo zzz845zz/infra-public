@@ -20,7 +20,10 @@ qemu-user-static qemu-system-arm qemu-system-misc
 fonts-hack-ttf fonts-powerline fonts-dejavu ttf-dejavu fonts-symbola
 texlive-full
 
-gnome-tweaks ibus ibus-hangul fonts-hack-ttf fonts-powerline google-chrome-stable
+google-chrome-stable
+ibus ibus-hangul nimf nimf-libhangul
+
+gnome-tweaks
 exfat-fuse exfat-utils
 virt-manager
 rbenv libboost-all-dev libreadline-dev
