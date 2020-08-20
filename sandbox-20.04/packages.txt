@@ -15,6 +15,7 @@ xclip
 gcc-riscv64-linux-gnu gcc-aarch64-linux-gnu
 gdb-multiarch
 qemu-user-static qemu-system-arm qemu-system-misc
+virt-manager
 
 fonts-hack-ttf fonts-powerline fonts-dejavu ttf-dejavu fonts-symbola
 texlive-full
