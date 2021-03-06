@@ -18,6 +18,7 @@ qemu-user-static qemu-system-arm qemu-system-misc
 virt-manager
 libncurses5 libtinfo5
 haskell-platform haskell-stack
+nimf nimf-libhangul
 
 fonts-hack-ttf fonts-powerline fonts-dejavu ttf-dejavu fonts-symbola
 texlive-full
