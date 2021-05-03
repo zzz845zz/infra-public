@@ -18,7 +18,6 @@ qemu-user-static qemu-system-arm qemu-system-misc
 virt-manager
 libncurses5 libtinfo5
 haskell-platform haskell-stack
-nimf nimf-libhangul
 cloc
 graphviz graphviz-dev coinor-cbc
 
