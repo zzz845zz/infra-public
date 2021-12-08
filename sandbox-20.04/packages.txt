@@ -25,3 +25,5 @@ gperf flex bison
 
 fonts-hack-ttf fonts-powerline fonts-dejavu ttf-dejavu fonts-symbola
 texlive-full
+
+libpmemobj-dev libvmem-dev
