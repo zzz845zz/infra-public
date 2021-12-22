@@ -26,7 +26,9 @@ verilator
 
 autoconf automake autotools-dev curl libmpc-dev libmpfr-dev libgmp-dev libusb-1.0-0-dev gawk build-essential bison flex texinfo gperf libtool patchutils bc zlib1g-dev device-tree-compiler pkg-config libexpat-dev libfl-dev
 
-fonts-hack-ttf fonts-powerline fonts-dejavu ttf-dejavu fonts-symbola
-texlive-full
+sbt
 
 libpmemobj-dev libvmem-dev
+
+fonts-hack-ttf fonts-powerline fonts-dejavu ttf-dejavu fonts-symbola
+texlive-full
