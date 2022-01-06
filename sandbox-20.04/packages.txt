@@ -31,6 +31,6 @@ sbt
 
 libpmemobj-dev libvmem-dev
 
-fonts-hack-ttf fonts-powerline fonts-dejavu ttf-dejavu fonts-symbola
+fonts-hack-ttf fonts-powerline fonts-dejavu ttf-dejavu fonts-symbola fonts-cascadia-code
 texlive-full
 inkscape
