@@ -1,5 +1,5 @@
 git man-db locales
-vim emacs code
+vim emacs 
 zsh bash-completion tmux
 sudo build-essential m4 gcc clang opam ocaml python3-venv python3-pip python-is-python3 default-jdk ripgrep
 autoconf automake autotools-dev libtool-bin pkg-config ninja-build
