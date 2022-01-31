@@ -30,8 +30,8 @@ autoconf automake autotools-dev curl libmpc-dev libmpfr-dev libgmp-dev libusb-1.
 
 sbt
 
-libpmemobj-dev libvmem-dev
+libpmemobj-dev
 
-fonts-hack-ttf fonts-powerline fonts-dejavu ttf-dejavu fonts-symbola fonts-cascadia-code
+fonts-hack-ttf fonts-powerline fonts-dejavu fonts-symbola fonts-cascadia-code
 texlive-full
 inkscape
