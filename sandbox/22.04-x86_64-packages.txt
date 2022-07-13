@@ -20,7 +20,7 @@ libncurses5 libtinfo5
 haskell-platform haskell-stack
 cloc
 graphviz graphviz-dev coinor-cbc
-ruby-mustache
+ruby-dev ruby-mustache
 gperf flex bison
 verilator
 ipmitool faketime
