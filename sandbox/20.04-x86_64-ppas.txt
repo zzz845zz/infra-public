@@ -1,2 +1,0 @@
-ppa:neovim-ppa/unstable
-ppa:git-core/ppa

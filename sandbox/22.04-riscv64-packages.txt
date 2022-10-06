@@ -9,7 +9,7 @@ libboost-all-dev
 csmith libcsmith-dev creduce
 inetutils-ping inetutils-telnet inetutils-traceroute wget curl
 libssl-dev sshfs sshpass
-cmake
+universal-ctags cmake
 htop cron
 xclip
 gdb-multiarch
@@ -18,7 +18,7 @@ libncurses5 libtinfo5
 haskell-platform haskell-stack
 cloc
 graphviz graphviz-dev coinor-cbc
-ruby-mustache
+ruby-dev ruby-mustache
 gperf flex bison
 verilator
 ipmitool faketime
