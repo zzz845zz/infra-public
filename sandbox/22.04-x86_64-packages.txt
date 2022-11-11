@@ -35,3 +35,4 @@ libpmemobj-dev
 fonts-hack-ttf fonts-powerline fonts-dejavu fonts-symbola fonts-cascadia-code
 texlive-full
 inkscape
+pdftk
